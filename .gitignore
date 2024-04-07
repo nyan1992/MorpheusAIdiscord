@@ -1,0 +1,7 @@
+__pycache__
+input.txt
+.env
+trained_model
+temp.py
+rawtext.txt
+dataset.txt
